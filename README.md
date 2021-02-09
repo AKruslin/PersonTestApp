@@ -88,7 +88,7 @@ Test folder has two files
 
   
 
-[!alt text]
+![apptestsCompleted](https://user-images.githubusercontent.com/70284063/107375023-946c1400-6ae8-11eb-9e25-cb4f3068732f.PNG)
 
   
 
